@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiSharan2005
 - 👀 I’m interested in Python and Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me on instagram sai_sharan2005 and on twitter @SaiShar59958376 
 - 
 
